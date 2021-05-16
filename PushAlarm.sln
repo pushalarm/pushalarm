@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PushAlarm", "PushAlarm\PushAlarm.fsproj", "{A28899AC-7014-4930-A177-47D123A79713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushAlarm.Proto", "PushAlarm.Proto\PushAlarm.Proto.csproj", "{7D73FF7D-0850-4472-9E6E-7A741679F5E2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PushAlarm.Tests", "PushAlarm.Tests\PushAlarm.Tests.fsproj", "{795F8923-8633-4B47-BAD0-D1FA3726A30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28899AC-7014-4930-A177-47D123A79713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28899AC-7014-4930-A177-47D123A79713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28899AC-7014-4930-A177-47D123A79713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28899AC-7014-4930-A177-47D123A79713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D73FF7D-0850-4472-9E6E-7A741679F5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D73FF7D-0850-4472-9E6E-7A741679F5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D73FF7D-0850-4472-9E6E-7A741679F5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D73FF7D-0850-4472-9E6E-7A741679F5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795F8923-8633-4B47-BAD0-D1FA3726A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795F8923-8633-4B47-BAD0-D1FA3726A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795F8923-8633-4B47-BAD0-D1FA3726A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795F8923-8633-4B47-BAD0-D1FA3726A30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
